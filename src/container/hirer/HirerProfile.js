@@ -256,28 +256,28 @@ console.log("++++++++++++++",first_Name)
                             {selectedFile ? 
                             <img className="absolute inset-0 w-full h-full object-cover" src={URL.createObjectURL(selectedFile)} alt="Profile" /> 
                             : 
-                            <img className="absolute inset-0 w-full h-full object-cover" src={hirerData && hirerData ? "http://13.233.123.209:8000"+hirerData.images_logo : ''} alt="Profile" />
+                            <img className="absolute inset-0 w-full h-full object-cover" src={hirerData && hirerData ? "https://www.api.alanced.com"+hirerData.images_logo : ''} alt="Profile" />
                             }
                             </div>
                             <div className="relative w-28 h-28 overflow-hidden">
                             {selectedFile ? 
                             <img className="absolute inset-0 w-full h-full object-cover" src={URL.createObjectURL(selectedFile)} alt="Profile" /> 
                             : 
-                            <img className="absolute inset-0 w-full h-full object-cover" src={hirerData && hirerData ? "http://13.233.123.209:8000"+hirerData.images_logo : ''} alt="Profile" />
+                            <img className="absolute inset-0 w-full h-full object-cover" src={hirerData && hirerData ? "https://www.api.alanced.com"+hirerData.images_logo : ''} alt="Profile" />
                             }
                             </div>
                             <div className="relative w-20 h-20 overflow-hidden">
                             {selectedFile ? 
                             <img className="absolute inset-0 w-full h-full object-cover" src={URL.createObjectURL(selectedFile)} alt="Profile" /> 
                             : 
-                            <img className="absolute inset-0 w-full h-full object-cover" src={hirerData && hirerData ? "http://13.233.123.209:8000"+hirerData.images_logo : ''} alt="Profile" />
+                            <img className="absolute inset-0 w-full h-full object-cover" src={hirerData && hirerData ? "https://www.api.alanced.com"+hirerData.images_logo : ''} alt="Profile" />
                             }
                             </div>
                             <div className="relative w-16 h-16 overflow-hidden">
                             {selectedFile ? 
                             <img className="absolute inset-0 w-full h-full object-cover" src={URL.createObjectURL(selectedFile)} alt="Profile" /> 
                             : 
-                            <img className="absolute inset-0 w-full h-full object-cover" src={hirerData && hirerData ? "http://13.233.123.209:8000"+hirerData.images_logo : ''} alt="Profile" />
+                            <img className="absolute inset-0 w-full h-full object-cover" src={hirerData && hirerData ? "https://www.api.alanced.com"+hirerData.images_logo : ''} alt="Profile" />
                             }
                             </div>
                     <input 
